@@ -23,5 +23,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/OkslineItsFine/Hand-Track-Simple.git
-cd Hand-Track-Simple
 ```
